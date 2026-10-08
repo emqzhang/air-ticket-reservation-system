@@ -7,7 +7,7 @@ from datetime import date, datetime, timedelta
 import calendar
 import re
 
-app = Flask(__name__) #creates flask app object
+app = Flask(__name__, template_folder="html-files") #creates flask app object
 app.secret_key = Config.SECRET_KEY
 app.permanent_session_lifetime = timedelta(hours=3) #session timeout after 3 hrs
 '''flask sessions are stored client-side in broswer cookies but are cryptographically signed
