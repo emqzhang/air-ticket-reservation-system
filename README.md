@@ -3,7 +3,6 @@ Full stack secure and usable web application that implements a plane ticket rese
 
 
 **Tools/Languages:** Python, MySQL, Jinja2 / HTML, Flask, phpMyAdmin, Werkzeug
-- See code manifest.pdf under code-documentation for detailed explanation of all code files
 
 
 ## Overview
