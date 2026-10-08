@@ -79,10 +79,10 @@ Implemented the full application on top of the schema, with a focus on security 
 │   ├── DB_queries.pdf                     # Feature-to-query mapping
 │   └── code_manifest.pdf                  # File-by-file description
 ├── html-files/            # Jinja2 templates (base layout, dashboards, forms, analytics)
-├── README.md
-├── app.py                 # Flask routes, business logic, and SQL queries
 ├── .env.example           # Template for required environment variables
 ├── .gitignore
+├── README.md
+├── app.py                 # Flask routes, business logic, and SQL queries
 ├── config.py              # Loads secret key and DB settings from the environment
 ├── db.py                  # PyMySQL connection helper
 └── requirements.txt
