@@ -77,7 +77,7 @@ Implemented the full application on top of the schema, with a focus on security 
 ├── db.py                  # PyMySQL connection helper
 ├── config.py              # Secret key and DB settings (not committed; see setup)
 ├── requirements.txt
-├── templates/             # Jinja2 templates (base layout, dashboards, forms, analytics)
+├── html-files/             # Jinja2 templates (base layout, dashboards, forms, analytics)
 └── docs/
     ├── project_p1_ER.pdf                  # Part 1 ER diagram
     ├── Part_1_Writeup.pdf                 # Part 1 assumptions and rationale
