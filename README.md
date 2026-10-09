@@ -110,7 +110,7 @@ Create a `config.py` in the project root:
 
 ```python
 class Config:
-    SECRET_KEY = "change-me-to-a-long-random-string"
+    SECRET_KEY = "your-super-secret-key"
     DB_HOST = "localhost"
     DB_PORT = 3306
     DB_USER = "<user>"
