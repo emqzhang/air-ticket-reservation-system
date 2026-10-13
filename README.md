@@ -73,11 +73,11 @@ Implemented the full application on top of the schema, with a focus on security 
 ```
 .
 ├── docs/                  # Design and project documentation
-│   ├── project_p1_ER.pdf                  # Part 1 ER diagram
-│   ├── Part_1_Writeup.pdf                 # Part 1 assumptions and rationale
-│   ├── project_p2_relational_schema.pdf   # Part 2 relational schema
 │   ├── DB_queries.pdf                     # Feature-to-query mapping
-│   └── code_manifest.pdf                  # File-by-file description
+│   ├── Part_1_Writeup.pdf                 # Part 1 assumptions and rationale
+│   ├── code_manifest.pdf                  # File-by-file description
+│   ├── project_p1_ER.pdf                  # Part 1 ER diagram
+│   └── project_p2_relational_schema.pdf   # Part 2 relational schema
 ├── html-files/            # Jinja2 templates (base layout, dashboards, forms, analytics)
 ├── .env.example           # Template for required environment variables
 ├── .gitignore
