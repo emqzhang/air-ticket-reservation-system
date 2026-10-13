@@ -2,7 +2,8 @@
 Full stack secure and usable web application that implements a plane ticket reservation complete with authetication and user sessions, server-side validation of all inputs, and supports use cases for public users, customers, booking agents, and airline staff. Project in three stages: conceptual design (ER model) -> logical design (relational schema + SQL) -> a secure web application on top of that schema
 
 
-**Tools/Languages:** Python, MySQL, Jinja2 / HTML, Flask, phpMyAdmin, Werkzeug
+ ## **Tools/Languages:** 
+ Python, MySQL, Jinja2 / HTML, Flask, phpMyAdmin, Werkzeug
 
 
 ## Overview
